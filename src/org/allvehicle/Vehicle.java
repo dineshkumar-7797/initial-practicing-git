@@ -25,6 +25,8 @@ class and call all classes methods also follow the all coding standards.   */
 public class Vehicle {
 	public void vehicleNecessary() {
 		System.out.println("The necessaries of vehicles are:");
+		System.out.println("update in the kumar branch");
+		System.out.println("To practise git conflict");
 	}
 	public static void main(String[] args) {
 		Vehicle  v=new Vehicle();
