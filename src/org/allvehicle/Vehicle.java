@@ -26,6 +26,7 @@ public class Vehicle {
 	public void vehicleNecessary() {
 		System.out.println("The necessaries of vehicles are:");
 		System.out.println("update in the dinesh branch");
+		System.out.println("update in the kumar branch");
 		System.out.println("To practise git conflict");
 	}
 	public static void main(String[] args) {
